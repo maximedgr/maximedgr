@@ -1,12 +1,13 @@
-### Hi there 👋, I'm Maxime D.
+### Bonjour 👋, I'm Maxime D.
 
-👋 Hi, I’m Maxime D.
 
 👀 I’m interested in Front&Back development (JS, React, HTML, CSS, Ts, Solidity, Python, C, C#, Java, SQL) and mostly for FinTech and Blockchain applications.
 
-🌱 I’m a FinTech engineer student learning Solidity, Rust, web dev like React, and a lot of tools for Blockchain development (Hardhat, Truffle...).
+🌱 FinTech engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) learning Solidity, Rust, Web dev and a lot of tools for Blockchain development (Hardhat, Truffle...).
 
 💻 I participated in many blockchain hackathons: PBWS, ETHPrague, ETHCC, ETHWarsaw, ETHBerlin. You will find some of my team projects on my [devpost](https://devpost.com/dienger-maxime).
+
+👨‍💼 Entrepreneur.
 
 📫 From ESILV engineering school | Paris-La Défense FRANCE
 
@@ -34,6 +35,8 @@ Feel free to contact me for more information about my work.
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximedgr)
-
+### ✨ GitHub Stats
+<div>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maximedgr&show_icons=true&theme=merko&count_private=true"  alt="maxime d github stats"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximedgr&theme=merko&layout=compact"  alt="maxime d github top languages"  />
+</div>
