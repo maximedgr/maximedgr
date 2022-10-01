@@ -18,7 +18,12 @@ Feel free to contact me for more information about my work.
   <a href="https://www.linkedin.com/in/maxime-dienger/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
- 
+
+### ✨ GitHub Stats
+<div>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maximedgr&show_icons=true&theme=merko&count_private=true"  alt="maxime d github stats"  />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximedgr&theme=merko&layout=compact"  alt="maxime d github top languages"  />
+</div>
 
 ![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
@@ -34,9 +39,3 @@ Feel free to contact me for more information about my work.
 ![WP](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### ✨ GitHub Stats
-<div>
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maximedgr&show_icons=true&theme=merko&count_private=true"  alt="maxime d github stats"  />
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximedgr&theme=merko&layout=compact"  alt="maxime d github top languages"  />
-</div>
