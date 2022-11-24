@@ -3,7 +3,7 @@
 
 👀 I’m interested in Front&Back development (JS, React, HTML, CSS, Ts, Solidity, Python, C, C#, Java, SQL) and mostly for FinTech and Blockchain applications.
 
-🌱 FinTech engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) learning Solidity, Rust, Web dev and a lot of tools for Blockchain development (Hardhat, Truffle...).
+🌱 FinTech engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) learning Solidity, Rust, Web dev and a lot of tools for Blockchain development (Truffle, Ganache...).
 
 💻 I participated in many blockchain hackathons: PBWS, ETHPrague, ETHCC, ETHWarsaw, ETHBerlin. You will find some of my team projects on my [devpost](https://devpost.com/dienger-maxime).
 
