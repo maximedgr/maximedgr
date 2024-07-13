@@ -6,13 +6,7 @@
 🌐 [👀](https://www.krkmu.dev/)
 
 Feel free to contact me for more information about my work.
-<p align="center">
      
-
-  <a href="https://www.linkedin.com/in/maxime-]/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
-
 ### ✨ GitHub Stats
 <div>
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=maximedgr&show_icons=true&theme=merko&count_private=true"  alt="maxime d github stats"  />
