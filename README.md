@@ -1,21 +1,15 @@
-### Bonjour 👋, I'm Maxime D.
+## Hello friend 👋
 
-
-👀 I’m interested in Front&Back development (JS, React, HTML, CSS, Ts, Solidity, Python, C, C#, Java, SQL) and mostly for FinTech and Blockchain applications.
-
-🌱 FinTech engineering student at [ESILV, Paris La Défense](https://www.esilv.fr/) learning Solidity, Rust, Web dev and a lot of tools for Blockchain development (Truffle, Ganache...).
-
-💻 I participated in many blockchain hackathons: PBWS, ETHPrague, ETHCC, ETHWarsaw, ETHBerlin. You will find some of my team projects on my [devpost](https://devpost.com/dienger-maxime).
-
-👨‍💼 Entrepreneur.
-
-📫 From ESILV engineering school | Paris-La Défense FRANCE
+🎓 Graduate from ESILV engineering school with a Master in Fintech Engineering & UCLA with a certificate in applications programming.  
+💼 Co-founded [Cypher Lab](https://cypherlab.org) and [Horae](https://horae.io).  
+📜 Led [KRYPTOSPHERE](https://kryptosphere.org/) blockchain student organization.  
+🌐 [👀](https://www.krkmu.dev/)
 
 Feel free to contact me for more information about my work.
 <p align="center">
      
 
-  <a href="https://www.linkedin.com/in/maxime-dienger/">
+  <a href="https://www.linkedin.com/in/maxime-]/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
 
