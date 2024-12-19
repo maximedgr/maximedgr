@@ -1,7 +1,7 @@
 ## Hello friend 👋
 
 🎓 Graduate from ESILV engineering school with a Master in Fintech Engineering & UCLA with a certificate in applications programming.  
-💼 Co-founded [Cypher Lab](https://cypherlab.org) and [Horae](https://horae.io).  
+💼 Co-founded [Cypher Lab](https://cypherlab.org) 
 📜 Led [KRYPTOSPHERE](https://kryptosphere.org/) blockchain student organization.  
 🌐 [👀](https://www.krkmu.dev/)
 
