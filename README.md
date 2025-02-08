@@ -1,7 +1,7 @@
 ## Hello friend 👋
 
-🎓 Graduate from ESILV engineering school with a Master in Fintech Engineering & UCLA with a certificate in applications programming.  
-💼 Co-founded [Cypher Lab](https://cypherlab.org)  
+🎓 Graduate from ESILV engineering school with a Master in Fintech Engineering & UCLA.  
+🖥️ [Cypher Lab](https://cypherlab.org) -> Cryptography open-source research.
 📜 Led [KRYPTOSPHERE](https://kryptosphere.org/) blockchain student organization.  
 🌐 [👀](https://www.krkmu.dev/)
 
